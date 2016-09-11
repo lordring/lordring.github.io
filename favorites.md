@@ -26,11 +26,14 @@ title: favorites
 #### In-progress ####
 
 1. Patterns of Enterprise Application Architecture
-2.  [The Design of Design: Essays from a Computer Scientist](https://www.amazon.cn/s?_encoding=UTF8&field-keywords=The%20Design%20of%20Design%3A%20Essays%20from%20a%20Computer%20Scientist&search-alias=books)
+2. [The Design of Design: Essays from a Computer Scientist](https://www.amazon.cn/s?_encoding=UTF8&field-keywords=The%20Design%20of%20Design%3A%20Essays%20from%20a%20Computer%20Scientist&search-alias=books)
+3. Domain Driven Design - Tackling complexity in the Heart of Software 
 
 #### Done####
 
 1. The Art of Unix Programming
 2. The Pragmatic Progammer
 3. Soft Skills
+4. Reactive Microservice Architecture
+5. Deploying Reactive Microservice
 
