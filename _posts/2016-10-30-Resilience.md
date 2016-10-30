@@ -23,6 +23,10 @@ Failure does alwasy happen in the software world. A resilient system would autom
 
 ## Patterns ##
 
+![Patterns](http://image.slidesharecdn.com/resiliencepatterns-141105153710-conversion-gate02/95/patterns-of-resilience-76-638.jpg?cb=1454361598)
+
+http://www.slideshare.net/ufried/patterns-of-resilience
+
 ### Timeout ###
 
 > - **Apply to Integration Points, Blocked Threads, and Slow Responses**  The Timeouts pattern prevents calls to Integration Points frombecoming Blocked Threads. Thus, they avert Cascading Failures.
